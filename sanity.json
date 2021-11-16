@@ -1,11 +1,11 @@
 {
   "root": true,
-  "project": {
-    "name": "L52"
-  },
   "api": {
-    "projectId": "d3trq4ey",
+    "projectId": "v8ewlm7o",
     "dataset": "production"
+  },
+  "project": {
+    "name": "Leisure Coop"
   },
   "plugins": [
     "@sanity/base",
